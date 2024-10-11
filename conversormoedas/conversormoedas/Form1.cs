@@ -12,7 +12,6 @@ namespace conversormoedas
 {
     public partial class Form1 : Form
     {
-        // Testando GitHub
         public Form1()
         {
             InitializeComponent();
